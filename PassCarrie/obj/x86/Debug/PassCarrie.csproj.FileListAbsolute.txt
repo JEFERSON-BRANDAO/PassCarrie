@@ -1,0 +1,14 @@
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\bin\Debug\PassCarrie.exe
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\bin\Debug\PassCarrie.pdb
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.Carrie.resources
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.Properties.Resources.resources
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.csproj.GenerateResource.Cache
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.exe
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.pdb
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.csprojResolveAssemblyReference.cache
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\bin\Debug\PassCarrie.exe.config
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\PassCarrie\PassCarrie\bin\Debug\MySql.Fabric.Plugin.dll
+Z:\CNSBG\ITS\Privado\Source Code\PassCarrie\PassCarrie\bin\Debug\PassCarrie.exe.config
+Z:\CNSBG\ITS\Privado\Source Code\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.exe
+Z:\CNSBG\ITS\Privado\Source Code\PassCarrie\PassCarrie\obj\x86\Debug\PassCarrie.pdb
